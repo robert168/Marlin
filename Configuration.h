@@ -34,7 +34,7 @@
  *
  * Advanced settings can be found in Configuration_adv.h
  *
- */
+ */  testing github
 #ifndef CONFIGURATION_H
 #define CONFIGURATION_H
 #define CONFIGURATION_H_VERSION 010100
